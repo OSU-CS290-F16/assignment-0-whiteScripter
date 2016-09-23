@@ -5,7 +5,7 @@ Name: *Evan Brass*
 
 ONID ID: *(brassev) 932990994*
 
-Link to my CS 290 page: 
+Link to my CS 290 page: http://web.engr.oregonstate.edu/~brassev/cs290/
 
 This assignment is intended to get you up and running with some of the tools we'll be using in this course and also to get you to start using HTML.  It should be very straightforward.  It has two parts.
 
